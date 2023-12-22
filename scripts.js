@@ -1,20 +1,4 @@
 
-// const button = document.getElementById("convert-button")
-
-
-// const convertValues = () => {
-//     const inputReais = document.getElementById("valor-nao-convertido").value
-//     const valorEmReal = document.getElementById("real-value")    
-
-//         console.log(new Intl.NumberFormat("en-US", {style: "currency", currency: "USD",}).format(valorEmReal / dolar))
-
-//     }
-//     if(select === "Є Euro"){
-//     }
-// }
-// const dolar = 5.4
-
-
 const select = document.getElementById("currency-select")
 const button = document.getElementById('convert-button');
 const dolar = 5;
